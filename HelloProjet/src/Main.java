@@ -11,5 +11,6 @@ public class Main {
 		System.out.println("冲突测试001!");
 		System.out.println("这是分支的代码!");
         System.out.println("Idea做的提交");
+        System.out.println("哈哈");
     }
 }
