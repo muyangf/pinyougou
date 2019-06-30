@@ -12,8 +12,6 @@ public class Main {
 		System.out.println("这是分支的代码!");
         System.out.println("Idea做的提交");
 		System.out.println("Idea做的提交");
-		System.out.println("Idea做的提交");
-		System.out.println("Idea做的提交");
-		System.out.println("Idea做的提交");
+		System.out.println("Idea阿姨");
     }
 }
