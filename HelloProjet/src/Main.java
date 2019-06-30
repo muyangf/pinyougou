@@ -9,6 +9,7 @@ public class Main {
 		System.out.println("冲突测试111!");
 		System.out.println("冲突测试002!");
 		System.out.println("冲突测试001!");
+		System.out.println("这是分支的代码!");
 
     }
 }
